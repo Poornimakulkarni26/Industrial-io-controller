@@ -1,0 +1,12 @@
+# Everything blocked by default
+*
+
+# Only allow what we explicitly want
+!.gitignore
+!README.md
+!docs/
+!docs/**
+!CT_v2/
+!CT_v2/*.kicad_pro
+!CT_v2/*.kicad_sch
+!CT_v2/*.kicad_pcb
