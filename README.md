@@ -6,6 +6,12 @@ A general-purpose industrial I/O controller board built around the **RP2040** mi
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![EDA](https://img.shields.io/badge/EDA-KiCad-orange)
 
+## Board Preview
+
+![Top View](top%20view.png)
+![Front View](front%20view.png)
+![Side View](Side-view.png)
+
 ## Features
 
 ### Digital I/O
