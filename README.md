@@ -9,7 +9,6 @@ A general-purpose industrial I/O controller board built around the **RP2040** mi
 ## Board Preview
 
 ![Top View](top%20view.png)
-![Front View](front%20view.png)
 ![Side View](Side-view.png)
 
 ## Features
